@@ -1,0 +1,21 @@
+# .NET 核心編譯產出的暫存檔與執行檔
+[Bb]in/
+[Ob]j/
+
+# Visual Studio 自動產生的設定檔
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code 設定
+.vscode/
+
+# 敏感資訊 (如果你有把 API Key 存在本地檔案中)
+appsettings.json
+*.env
+secrets.json
+
+# 作業系統產生的雜物
+.DS_Store
+Thumbs.db
